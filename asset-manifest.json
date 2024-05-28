@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.f2b96467.css",
-    "main.js": "/static/js/main.80144506.js",
+    "main.css": "/static/css/main.67cea84a.css",
+    "main.js": "/static/js/main.8d33da1f.js",
     "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
     "static/media/PharmPic.JPG": "/static/media/PharmPic.a43c90a4eb5bb661806b.JPG",
+    "static/media/CoachImg.png": "/static/media/CoachImg.df9040e824ca09168664.png",
     "static/media/Portrait.JPG": "/static/media/Portrait.fdc72b3d79c6efc47fb3.JPG",
+    "static/media/ZorkIcon.jpg": "/static/media/ZorkIcon.104e0e5051aec6ab8bab.jpg",
+    "static/media/Reactchat.png": "/static/media/Reactchat.3828abb23faab2c9b464.png",
     "index.html": "/index.html",
-    "main.f2b96467.css.map": "/static/css/main.f2b96467.css.map",
-    "main.80144506.js.map": "/static/js/main.80144506.js.map",
+    "main.67cea84a.css.map": "/static/css/main.67cea84a.css.map",
+    "main.8d33da1f.js.map": "/static/js/main.8d33da1f.js.map",
     "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f2b96467.css",
-    "static/js/main.80144506.js"
+    "static/css/main.67cea84a.css",
+    "static/js/main.8d33da1f.js"
   ]
 }
