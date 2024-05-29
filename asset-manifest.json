@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.67cea84a.css",
-    "main.js": "/static/js/main.8d33da1f.js",
+    "main.css": "/static/css/main.4b3221ec.css",
+    "main.js": "/static/js/main.4c5674db.js",
     "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
     "static/media/PharmPic.JPG": "/static/media/PharmPic.a43c90a4eb5bb661806b.JPG",
     "static/media/CoachImg.png": "/static/media/CoachImg.df9040e824ca09168664.png",
     "static/media/Portrait.JPG": "/static/media/Portrait.fdc72b3d79c6efc47fb3.JPG",
     "static/media/ZorkIcon.jpg": "/static/media/ZorkIcon.104e0e5051aec6ab8bab.jpg",
+    "static/media/Jason_Gomez_Resume.pdf": "/static/media/Jason_Gomez_Resume.03122cb183a57e74169c.pdf",
     "static/media/Reactchat.png": "/static/media/Reactchat.3828abb23faab2c9b464.png",
     "index.html": "/index.html",
-    "main.67cea84a.css.map": "/static/css/main.67cea84a.css.map",
-    "main.8d33da1f.js.map": "/static/js/main.8d33da1f.js.map",
+    "main.4b3221ec.css.map": "/static/css/main.4b3221ec.css.map",
+    "main.4c5674db.js.map": "/static/js/main.4c5674db.js.map",
     "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.67cea84a.css",
-    "static/js/main.8d33da1f.js"
+    "static/css/main.4b3221ec.css",
+    "static/js/main.4c5674db.js"
   ]
 }
